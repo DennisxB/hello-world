@@ -1,2 +1,4 @@
 # hello-world
-My first repositpry
+My first repository
+
+I love 🍎 🍊 and 🍵
